@@ -9,12 +9,14 @@ date:       2018-04-11 09:32:00
 author:     "赵化冰"
 image: "/img/2018-04-11-service-mesh-vs-api-gateway/background.jpg"
 published: true
+featured: true
 tags:
+    - BLOG
     - Microservice
     - Service Mesh
     - API Gateway
 URL: "/2018/04/11/service-mesh-vs-api-gateway/"
-categories: [ Tech ]
+# categories: [ Tech ]
 ---
 
 ## Service Mesh vs API Gateway
