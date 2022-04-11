@@ -1,4 +1,29 @@
+@font-face {
+  font-family: "Cubic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff");
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff2") format("woff2"),
+    url("../fonts/cubic/Cubic_11_1.010_R.woff.woff") format("woff");
+}
 
+@font-face {
+  font-family: "Cubic";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff");
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff2") format("woff2"),
+    url("../fonts/cubic/Cubic_11_1.010_R.woff.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Cubic";
+  font-style: normal;
+  font-weight: 900;
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff");
+  src: url("../fonts/cubic/Cubic_11_1.010_R.woff2") format("woff2"),
+    url("../fonts/cubic/Cubic_11_1.010_R.woff.woff") format("woff");
+}
 /* Font Awesome 5.3.1 */
 
 @font-face {
