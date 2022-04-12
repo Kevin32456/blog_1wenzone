@@ -5,7 +5,8 @@ title = "Blog"
 
 +++
 
-`Blog` is the place to record my life. There are 5 categories in `Blog` section:
+這裡分享一些生活大小事。
+<!-- `Blog` is the place to record my life. There are 5 categories in `Blog` section:
 
 - Thoughts: My thoughts and attitude to everything in my life.
 
@@ -15,4 +16,4 @@ title = "Blog"
 
 - Moment: Some moments that I feel something and eager to write it down. Fragments in my life. Short memos.
 
-- Gallery: Pictures I'd like to share. My favourite ones.
+- Gallery: Pictures I'd like to share. My favourite ones. -->

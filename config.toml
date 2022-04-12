@@ -1,10 +1,10 @@
 baseURL                   = "https://blog.1wenzone.com/"
-builddrafts                = false
-languageCode               = "zn-Hans"
-canonifyurls               = true
-contentdir                 = "content"
-layoutdir                  = "layouts"
-publishdir                 = "public"
+builddrafts                = false       # 構建草稿
+languageCode               = "zn-Hans"   # 語言
+canonifyurls               = true        # 規範化網址
+contentdir                 = "content"      # 內容目錄
+layoutdir                  = "layouts"      
+publishdir                 = "public"     
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 200
@@ -48,10 +48,10 @@ pygmentsuseclasses         = true
  
 
 [params]
-  faviconfile              = "img/work_3.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  faviconfile              = "img/pc.png"               # from static/
+  avatar                   = "img/S__37740553.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "1WenZone"
-  description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
+  description              = ["食記|遊戲|程式|生活", "明天的煩惱就留給明天", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
   welcome_head             = "Hello, World!"
   welcome_word             = "~ No Day But Today ~"
 
@@ -72,9 +72,9 @@ pygmentsuseclasses         = true
   katex                    = true
 
   # links
-  email                    = "1"
-  github                   = "//github.com/you"
-  linkedin                 = "1"
+  email                    = "c5566_821130@yahoo.com.tw"
+  github                   = ""
+  linkedin                 = "linkedin.com/in/kevin-chen-302156177"
   facebook                 = ""
   googleplus               = ""
   twitter                  = "" 

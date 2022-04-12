@@ -14,7 +14,7 @@
         <a href="{{ "series/" | absLangURL }}">
           <span class="font-weight-bold text-uppercase post-meta">
             <i class="fas fa-bookmark pr-1" aria-hidden="true"></i> 
-            Recommend Series
+            推薦系列 | Recommend Series
           </span>
         </a>
       </div>
@@ -34,7 +34,7 @@
               {{ end }}
             {{ else }}
               <!-- Not in Data -->
-              {{ partial "sidebar-card.html" (dict "url" $url "title" $title "img_path" ( "img/default.jpg" | absLangURL ) "text" nil ) }}
+              {{ partial "sidebar-card.html" (dict "url" $url "title" $title "img_path" ( "img/blueForder.png" | absLangURL ) "text" nil ) }}
             {{ end }}
           
           {{ end }}
