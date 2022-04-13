@@ -1,6 +1,6 @@
 baseURL                   = "https://blog.1wenzone.com/"
 builddrafts                = false       # 構建草稿
-languageCode               = "zn-Hans"   # 語言
+languageCode               = "zn-TW"   # 語言
 canonifyurls               = true        # 規範化網址
 contentdir                 = "content"      # 內容目錄
 layoutdir                  = "layouts"      

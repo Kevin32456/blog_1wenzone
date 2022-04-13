@@ -1,4 +1,14 @@
 [[series]]
-name = "seriesname"
-img = "images/path"
-summary = "This is the simple summary of the series"
+name = "观后repo"
+img = "img/tv.png"
+summary = "This is the place I write reviews"
+
+[[series]]
+name = "blog养成记"
+img = "img/yellowForder.png"
+summary = "How I build up my personal website"
+
+[[series]]
+name = "生活"
+img = "img/yellowForder.png"
+summary = "How I build up my personal website"

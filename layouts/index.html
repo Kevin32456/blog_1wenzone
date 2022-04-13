@@ -21,7 +21,7 @@
   <main class="post-main-wrapper px-5">
     <div class="row">
       <!-- Sidebar -->
-      <div class="col-md-3">
+      <div class="col-md-2">
         <!-- <hr> -->
         
         {{ partial "sidebar-categories.html" . }}
@@ -35,7 +35,7 @@
 
       <!-- Post list -->
       <!-- <div class="pt-5 px-5 mx-5"> -->
-      <div class="col-md-9 mt-3">  
+      <div class="col-md-10 mt-3">  
         {{ $totalpostscount := len (.Data.Pages) }}
         {{ $latestpostscount := .Site.Params.latestpostscount | default $totalpostscount }}
         {{ if gt $latestpostscount 0 }}
